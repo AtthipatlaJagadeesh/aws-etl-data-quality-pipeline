@@ -7,8 +7,6 @@
 
 # AWS ETL Data Pipeline with Data Quality Validation
 
-# AWS ETL Data Pipeline with Data Quality Validation
-
 ### Overview
 This project demonstrates how to automate an ETL (Extract, Transform, Load) pipeline on AWS using Python and AWS services like S3, Glue, Athena, and Redshift.  
 It also integrates **data quality checks** to validate data integrity before loading into the data warehouse.
