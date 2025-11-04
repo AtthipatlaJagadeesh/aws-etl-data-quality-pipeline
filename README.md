@@ -12,6 +12,16 @@
 ### Overview
 This project demonstrates how to automate an ETL (Extract, Transform, Load) pipeline on AWS using Python and AWS services like S3, Glue, Athena, and Redshift.  
 It also integrates **data quality checks** to validate data integrity before loading into the data warehouse.
+---
+
+## 🚀 Project Highlights
+
+- Built an automated ETL pipeline using **AWS S3, Glue, and Redshift**.
+- Implemented **data quality checks** for missing values, schema validation, and duplicates using **Python (pandas, boto3)**.
+- Designed a reusable **ETL framework** with configurable parameters.
+- Automated daily pipeline runs using **AWS Lambda + EventBridge**.
+- Validated transformation accuracy through **Athena SQL queries**.
+
 
 ### 🧱 Architecture
 1. Raw CSV files are uploaded to an S3 bucket.
