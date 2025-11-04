@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Data%20Engineering-orange?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Python-Automation-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-green?style=for-the-badge&logo=apacheairflow"/>
+  <img src="https://img.shields.io/badge/Data%20Quality-Validation-brightgreen?style=for-the-badge&logo=pytest"/>
+</p>
+
+# AWS ETL Data Pipeline with Data Quality Validation
+
 # AWS ETL Data Pipeline with Data Quality Validation
 
 ### Overview
