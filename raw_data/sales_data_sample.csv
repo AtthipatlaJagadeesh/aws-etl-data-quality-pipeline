@@ -1,0 +1,6 @@
+sales_id,product,quantity,price,date
+1,Laptop,2,700,2024-01-05
+2,Mouse,5,20,2024-01-05
+3,Keyboard,1,40,2024-01-06
+4,,3,50,2024-01-06
+5,Monitor,2,,-2024-01-07

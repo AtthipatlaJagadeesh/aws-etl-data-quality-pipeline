@@ -1,0 +1,5 @@
+AWS_REGION = "us-east-1"
+RAW_BUCKET = "raw-sales-data"
+PROCESSED_BUCKET = "processed-sales-data"
+RAW_FILE = "sales_data_sample.csv"
+PROCESSED_FILE = "sales_data_clean.csv"
